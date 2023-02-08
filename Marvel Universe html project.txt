@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+        <h1 id="TitleName">The Marvel universe</h1>
+        <h2 id="popularHeros">POPULAR SUPER HEROS</h2>
+        <img id="superHeros1" src="https://cdn.pixabay.com/photo/2020/09/11/00/06/spiderman-5561671__340.jpg" alt="">
+        <p id="superHerosName1">Spider-man</p>
+        <img id="superHeros2" src="https://www.redwolf.in/image/catalog/designer-Images/themes/iron-man-artist-image.png" alt="">
+        <p id="superHerosName2">Iron Man</p>
+        <h2 id="popularVillains">POPULAR SUPER VILLIANS</h2>
+        <img id="superVillain1" src="https://assets1.ignimgs.com/2018/08/07/top25marvelvillains-blogroll-1533662453256_160w.jpg?width=1280" alt="">
+        <p id="superVillainName1">LOKI</p>
+        <img id="superVillain2" src="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/2346/1282346-h-8c87211478c3" alt="">
+        <p id="superVillainName2">Venom</p> 
+</body>
+</html>
